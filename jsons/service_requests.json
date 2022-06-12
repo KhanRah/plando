@@ -1,0 +1,36 @@
+{
+    "success": true,
+    "result": [{
+        "requestId": 0,
+        "title": "Fix the Electricity work",
+        "description": "Electrical Issue",
+        "userId": 0,
+        "userName": "Harvey Specter",
+        "companyId": 0,
+        "companyName": "Plando",
+        "imageFile": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "pdfFile": "string",
+        "createdAt": "2022-03-16T19:37:59.244Z",
+        "priority": "string",
+        "status": "string",
+        "assetId": 0,
+        "assetName": "string",
+                "udpatedAt": "2022-03-16T19:37:59.244Z"
+    }, {
+        "requestId": 0,
+        "title": "Fan Issues",
+        "description": "Problem in fan",
+        "userId": 0,
+        "userName": "Mike Ross",
+        "companyId": 0,
+        "companyName": "Plando",
+        "imageFile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+        "pdfFile": "string",
+        "createdAt": "2022-03-16T19:37:59.244Z",
+        "priority": "string",
+        "status": "string",
+        "assetId": 0,
+        "assetName": "string",
+                "updatedAt": "2022-03-16T19:37:59.244Z"
+    }]
+}

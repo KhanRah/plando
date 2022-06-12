@@ -1,0 +1,6 @@
+
+class Constants {
+
+}
+
+class SharedPrefsKeys{}
